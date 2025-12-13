@@ -1,4 +1,4 @@
 {
   "DockerRun.DisableDockerrc": true,
-  "cSpell.words": ["flang", "Flang", "lldb", "mlir"]
+  "cSpell.words": ["flang", "Flang", "jemalloc", "lldb", "mlir", "pcre"]
 }
